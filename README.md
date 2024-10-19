@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/Glow" target="_blank">Abdul Maruk Khan (Glow) ✨</a></h1>
+<h1 align="center">Hey 👋 Visitors, I'm <a href="https://github.com/Glow" target="_blank">Abdul Maruk Khan ✨</a></h1>
 <h3 align="center">Aspiring Certified Ethical Hacker | Tech Enthusiast | Anime Fan</h3>
 
 <p align="center">
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;I'm+an+Aspiring+Ethical+Hacker;Always+Learning+New+Tech+%F0%9F%92%BB;Anime+Inspires+My+Creativity!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=1Welcome+to+my+GitHub+Profile!;Code+Name+Rdx+Maruf;11I'm+an+Aspiring+Ethical+Hacker;Always+Learning+New+Tech;Anime+Fan!;That's+All+">
 </p>
 
 ---
@@ -33,7 +33,7 @@
 ---
 
 ### 📫 Connect with Me:
-- **Email:** [abdulmaruf9024@gmail.com](mailto:abdulmaruf9024@gmail.com)
+- **Email:** [Don't spam](mailto:abdulmaruf9024@gmail.com)
 - **LinkedIn:** Coming soon!
 
 ---
